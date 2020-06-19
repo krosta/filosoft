@@ -1,0 +1,2 @@
+# filosoft
+Filosoft újdonságok, dokumentációk 
